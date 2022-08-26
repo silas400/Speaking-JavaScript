@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+overflow-y: hidden;}
+
+#text{height: 40vh;
+    width: 60vh;
+    margin-bottom: 15px}
+
+#controls{display: flex;
+        gap: 8px;
+        height: fit-content;}
+
+p{margin: 0;}
